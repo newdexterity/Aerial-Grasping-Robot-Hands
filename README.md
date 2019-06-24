@@ -4,7 +4,8 @@ Over the last decade, a new class of adaptive robot hands has been proposed that
 This adaptive robot hand is designed for UAV-based autonomous package delivery problem. Therefore, the robot hand must be extremely quick (< 100 ms), lightweight (< 480 g), provide reliable grasping and enable perching for aerial platforms such as UAVs.
 
 A novel quick release mechanism which contains two servomotors has been proposed in this paper. The quick release mechanism allows the first servomotor to winch the tendons and open each finger. When the second servomotor is actuated, the dog collar disengages with the 35T spur gear, allowing the dog collar and the drum to rotate freely.
-![Image description](https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png)
+
+<img align="left" width="100" height="100" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
                     Figure 1. Quick release mechanism
 
 ## Contents
