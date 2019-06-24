@@ -1,4 +1,5 @@
 # Aerial-Grasping-Robot-Hands
+## Introduction
 Over the last decade, a new class of adaptive robot hands has been proposed that facilitates the execution of stable grasps in unstructured environments even when the object properties are not known. This attribute of adaptive hands is due to the under-actuation and their mechanical compliance that allow them to conform to the object surface. 
 
 This adaptive robot hand is designed for UAV-based autonomous package delivery problem. Therefore, the robot hand must be extremely quick (< 100 ms), lightweight (< 480 g), provide reliable grasping and enable perching for aerial platforms such as UAVs.
@@ -9,9 +10,9 @@ A novel quick release mechanism which contains two servomotors has been proposed
   <img width="700" height="300" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
 </p>
 
-<p style="text-align: center;"> 
-<sadasdasd>
-</p>
+<pre>
+                                        Figure 1. Quick release mechanism
+</pre>
 
 ## Contents
 In this repository you can find:
