@@ -8,7 +8,10 @@ A novel quick release mechanism which contains two servomotors has been proposed
 <p align="center">
   <img width="700" height="300" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
 </p>
-                    Figure 1. Quick release mechanism
+
+<p style="text-align: center;"> 
+<sadasdasd>
+</p>
 
 ## Contents
 In this repository you can find:
