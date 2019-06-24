@@ -5,7 +5,9 @@ This adaptive robot hand is designed for UAV-based autonomous package delivery p
 
 A novel quick release mechanism which contains two servomotors has been proposed in this paper. The quick release mechanism allows the first servomotor to winch the tendons and open each finger. When the second servomotor is actuated, the dog collar disengages with the 35T spur gear, allowing the dog collar and the drum to rotate freely.
 
-<img align="left" width="100" height="100" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
+<p align="center">
+  <img width="700" height="300" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
+</p>
                     Figure 1. Quick release mechanism
 
 ## Contents
