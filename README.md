@@ -7,4 +7,4 @@ In this repository you can find:
 * Arduino code for controling this robot hand
 
 ## Notes
-Please open a Github Issue (https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/issues) if you encounter any problem.
+Please open a GitHub issue if you encounter any problem.
