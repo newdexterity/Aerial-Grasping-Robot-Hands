@@ -6,22 +6,9 @@ In this folder we provide appropriate 3D models (Solidworks .SLDPRT) and files f
 </p>
 
 <p align="center"> 
-  Figure 2. The appearance of the aerial grasping robot hand.
+  Figure 3. The appearance of the aerial grasping robot hand.
 </p>    
-
-## Prototype
-The prototype (Fig. 3) of this aerial grasping robot hand is designed by [New Dexterity Research Team](https://www.newdexterity.org/) from the University of Auckland.
-
-<p align="center">
-  <img width="280" height="280" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/prototype.png">
-</p>
-
-<p align="center"> 
-  Figure 3. Prototype of the aerial grasping robot hand
-</p>                                           
-
- 
-
+                                           
 ## Tools
 In order to replicate this design of robot hand, you will need the below materials.
 * 111
