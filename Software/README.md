@@ -5,7 +5,7 @@ OpenCM9.04 is a microcontroller board based on 32bit ARM Cortex-M3. The OpenCM9.
 
 The connections between OpenCM9.04-C board and other devices are shown in Fig. 4:
 <p align="center">
-  <img width="500" height="500" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencm.png">
+  <img width="500" height="500" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/OpenCM9.04.png">
 </p>
 
 <p align="center"> 
