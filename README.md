@@ -27,7 +27,7 @@ A novel quick release mechanism which contains two servomotors has been proposed
 </p>                                           
 
 ## Sensors
-* Infrared sensor
+* [Infrared sensor](http://www.sharp-world.com/products/device/lineup/data/pdf/datasheet/gp2y0a21yk_e.pdf)
 
 ## Contents
 In this repository you can find:
