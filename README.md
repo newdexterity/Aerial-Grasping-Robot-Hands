@@ -26,6 +26,9 @@ A novel quick release mechanism which contains two servomotors has been proposed
   Figure 2. Quick release mechanism
 </p>                                           
 
+## Sensors
+* Infrared sensor
+
 ## Contents
 In this repository you can find:
 * CAD files of an ultra-fast aerial grasping robot hand
