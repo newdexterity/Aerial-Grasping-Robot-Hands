@@ -26,4 +26,4 @@ In order to replicate this design of robot hand, you will need the below materia
 * 333
 
 ## Modeling
-If you need some help on how to model fingers, please take a look at the instruction [here](https://www.eng.yale.edu/grablab/openhand/OpenHand%20Finger%20Guide.pdf).
+If you need some help on modeling fingers, please take a look at the instruction [here](https://www.eng.yale.edu/grablab/openhand/OpenHand%20Finger%20Guide.pdf).
