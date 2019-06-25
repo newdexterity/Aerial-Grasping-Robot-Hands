@@ -21,9 +21,9 @@ This aerial grasping robot hand has an improved mechanical structure design and 
 
 ## Tools
 In order to replicate this design of robot hand, you will need the below materials.
-* CAD files of an ultra-fast aerial grasping robot hand
-* Archive of prototype images
-* Arduino code for controling this robot hand
+* 111
+* 222
+* 333
 
-## Notes
-Please open a [Github issue](https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/issues) if you encounter any problem.
+## Modeling
+Please follow the instruction [here](https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/issues) to learn how to model fingers.
