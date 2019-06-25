@@ -12,7 +12,7 @@ The prototype of this aerial grasping robot hand is designed by [New Dexterity R
 </p>
 
 <p align="center"> 
-  Figure 2. Prototype of the aerial grasping robot hand
+  Figure 1. Prototype of the aerial grasping robot hand
 </p>
 
 ## Quick release mechanism
@@ -23,7 +23,7 @@ A novel quick release mechanism which contains two servomotors has been proposed
 </p>
 
 <p align="center"> 
-  Figure 1. Quick release mechanism
+  Figure 2. Quick release mechanism
 </p>                                           
 
 ## Contents
