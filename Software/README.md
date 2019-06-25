@@ -21,17 +21,17 @@ The DYNAMIXEL is a smart actuator system developed to be the exclusive connectin
 As OpenCM IDE will not be updated anymore, we recommend users to code on Arduino IDE for OpenCM9.04-C board. Here is the instruction for installing OpenCM9.04 package on Arduino IDE:
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE1.png">
+  <img width="600" height="400" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE1.png">
 </p>
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE2.png">
+  <img width="600" height="400" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE2.png">
 </p>
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE3.png">
+  <img width="600" height="400" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE3.png">
 </p>
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE4.png">
+  <img width="600" height="400" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/opencmIDE4.png">
 </p>
