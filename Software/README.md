@@ -11,6 +11,7 @@ The connections between OpenCM9.04-C board and other devices are shown in Fig. 4
 <p align="center"> 
   Figure 4. Connections between OpenCM9.04-C and other devices.
 </p>   
+
 ## Dynamixel motors
 The DYNAMIXEL is a smart actuator system developed to be the exclusive connecting joints on a robot or mechanical structure. DYNAMIXELS’ are designed to be modular and daisy chained on any robot or mechanical design for powerful and flexible robotic movements. The DYNAMIXEL is a high performance actuator with a fully integrated DC (Direct Current) Motor + Reduction Gearhead + Controller + Driver + Network, all in one servo module actuator. Programmable and networkable, actuator status can be read and monitored through a data packet stream. Durability and quality is proven by world-class robot teams from over 30 countries. Please click [here](http://www.robotis.us/dynamixel/) for more information about Dynamixel motors.
 
