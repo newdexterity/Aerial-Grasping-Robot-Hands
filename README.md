@@ -5,7 +5,7 @@ Over the last decade, a new class of adaptive robot hands has been proposed that
 This adaptive robot hand is designed for UAV-based autonomous package delivery problem. Therefore, the robot hand must be extremely quick (< 100 ms), lightweight (< 480 g), provide reliable grasping and enable perching for aerial platforms such as UAVs.
 
 ## Prototype
-The prototype (Fig. 2) of this aerial grasping robot hand is designed by [New Dexterity Research Team](https://www.newdexterity.org/) from the University of Auckland.
+The prototype of this aerial grasping robot hand is designed by [New Dexterity Research Team](https://www.newdexterity.org/) from the University of Auckland.
 
 <p align="center">
   <img width="280" height="280" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/prototype.png">
