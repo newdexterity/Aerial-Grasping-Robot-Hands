@@ -17,11 +17,5 @@ The DYNAMIXEL is a smart actuator system developed to be the exclusive connectin
 
                                         
 
-## Contents
-In this repository you can find:
-* CAD files of an ultra-fast aerial grasping robot hand
-* Archive of prototype images
-* Arduino code for controling this robot hand
-
-## Notes
-Please open a [Github issue](https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/issues) if you encounter any problem.
+## IDE
+As OpenCM IDE will not be updated anymore, we recommend users to code on Arduino IDE for OpenCM9.04-C board. Here is the instruction for installing OpenCM9.04 package on Arduino IDE:
