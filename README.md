@@ -19,7 +19,7 @@ The prototype of this aerial grasping robot hand is designed by [New Dexterity R
 A novel quick release mechanism which contains two servomotors has been proposed in this paper. The quick release mechanism allows the main servomotor to winch the tendons and open each finger. When the other servomotor is actuated, the dog collar disengages with the 35T spur gear, allowing the dog collar and the drum to rotate freely.
 
 <p align="center">
-  <img width="700" height="300" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
+  <img width="700" height="280" src="https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/quick_release_mechanism.png">
 </p>
 
 <p align="center"> 
