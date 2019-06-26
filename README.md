@@ -2,7 +2,7 @@
 ## Introduction
 Over the last decade, a new class of adaptive robot hands has been proposed that facilitates the execution of stable grasps in unstructured environments even when the object properties are not known. This attribute of adaptive hands is due to the under-actuation and their mechanical compliance that allow them to conform to the object surface. 
 
-This adaptive robot hand is designed for UAV-based autonomous package delivery problem. Therefore, the robot hand must be extremely quick (< 100 ms), [lightweight](https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/weight_analysis_aerial_gripper) (< 505 g), provide reliable grasping and enable perching for aerial platforms such as UAVs.
+This adaptive robot hand is designed for UAV-based autonomous package delivery problem. Therefore, the robot hand must be extremely quick (< 100 ms), [lightweight](https://github.com/newdexterity/Aerial-Grasping-Robot-Hands/blob/master/Media/weight_analysis_aerial_gripper.pdf) (< 505 g), provide reliable grasping and enable perching for aerial platforms such as UAVs.
 
 ## Prototype
 The prototype of this aerial grasping robot hand is designed by [New Dexterity Research Team](https://www.newdexterity.org/) from the University of Auckland.
